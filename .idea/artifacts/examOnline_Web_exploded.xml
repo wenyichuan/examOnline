@@ -1,0 +1,54 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="examOnline:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/examOnline_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="examOnline/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="examOnline" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="mysql-connector-java-5.0.4-bin.jar" module-name="examOnline" />
+          <element id="library" level="module" name="asm-3.3.jar" module-name="examOnline" />
+          <element id="library" level="module" name="asm-commons-3.3.jar" module-name="examOnline" />
+          <element id="library" level="module" name="asm-tree-3.3.jar" module-name="examOnline" />
+          <element id="library" level="module" name="commons-fileupload-1.3.1.jar" module-name="examOnline" />
+          <element id="library" level="module" name="commons-io-2.2.jar" module-name="examOnline" />
+          <element id="library" level="module" name="commons-lang3-3.2.jar" module-name="examOnline" />
+          <element id="library" level="module" name="freemarker-2.3.22.jar" module-name="examOnline" />
+          <element id="library" level="module" name="javassist-3.11.0.GA.jar" module-name="examOnline" />
+          <element id="library" level="module" name="log4j-api-2.2.jar" module-name="examOnline" />
+          <element id="library" level="module" name="log4j-core-2.2.jar" module-name="examOnline" />
+          <element id="library" level="module" name="ognl-3.0.6.jar" module-name="examOnline" />
+          <element id="library" level="module" name="struts2-core-2.3.24.1.jar" module-name="examOnline" />
+          <element id="library" level="module" name="xwork-core-2.3.24.1.jar" module-name="examOnline" />
+          <element id="library" level="module" name="junit-4.0.jar" module-name="examOnline" />
+          <element id="library" level="module" name="hibernate-annotations.jar" module-name="examOnline" />
+          <element id="library" level="module" name="hibernate-commons-annotations.jar" module-name="examOnline" />
+          <element id="library" level="module" name="hibernate-entitymanager.jar" module-name="examOnline" />
+          <element id="library" level="module" name="hibernate-validator.jar" module-name="examOnline" />
+          <element id="library" level="module" name="ejb3-persistence.jar" module-name="examOnline" />
+          <element id="library" level="module" name="jboss-archive-browsing.jar" module-name="examOnline" />
+          <element id="library" level="module" name="antlr-2.7.6.jar" module-name="examOnline" />
+          <element id="library" level="module" name="asm.jar" module-name="examOnline" />
+          <element id="library" level="module" name="asm-attrs.jar" module-name="examOnline" />
+          <element id="library" level="module" name="cglib-2.1.3.jar" module-name="examOnline" />
+          <element id="library" level="module" name="commons-collections-2.1.1.jar" module-name="examOnline" />
+          <element id="library" level="module" name="commons-logging-1.0.4.jar" module-name="examOnline" />
+          <element id="library" level="module" name="dom4j-1.6.1.jar" module-name="examOnline" />
+          <element id="library" level="module" name="ehcache-1.2.3.jar" module-name="examOnline" />
+          <element id="library" level="module" name="hibernate3.jar" module-name="examOnline" />
+          <element id="library" level="module" name="jaas.jar" module-name="examOnline" />
+          <element id="library" level="module" name="jaxen-1.1-beta-7.jar" module-name="examOnline" />
+          <element id="library" level="module" name="javassist.jar" module-name="examOnline" />
+          <element id="library" level="module" name="jta.jar" module-name="examOnline" />
+          <element id="library" level="module" name="log4j-1.2.11.jar" module-name="examOnline" />
+          <element id="library" level="module" name="xerces-2.6.2.jar" module-name="examOnline" />
+          <element id="library" level="module" name="xml-apis.jar" module-name="examOnline" />
+          <element id="library" level="module" name="servlet-api.jar" module-name="examOnline" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
